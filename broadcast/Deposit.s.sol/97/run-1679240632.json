@@ -1,0 +1,54 @@
+{
+  "transactions": [
+    {
+      "hash": "0x95a06ba0a52fda416e222b4fe9d1d124fc70c4389f5413009d6771cad7d60f02",
+      "transactionType": "CALL",
+      "contractName": null,
+      "contractAddress": "0xd3202fDa3b3CBa656918400019CE88678cA4e4a7",
+      "function": null,
+      "arguments": null,
+      "rpc": "https://autumn-stylish-asphalt.bsc-testnet.discover.quiknode.pro/5fc082bb5564c6491719c4b571f2c209e083f8f6/",
+      "transaction": {
+        "type": "0x00",
+        "from": "0xf546f10f18263995f1413168d9712a71d67c2b7a",
+        "to": "0xd3202fda3b3cba656918400019ce88678ca4e4a7",
+        "gas": "0xf9c8",
+        "value": "0x0",
+        "data": "0x095ea7b30000000000000000000000009f11d7e82315421d77330f8d6e76725db61dc5b70000000000000000000000000000000000000000000000056bc75e2d63100000",
+        "nonce": "0x9"
+      },
+      "additionalContracts": []
+    },
+    {
+      "hash": "0xb9150a366f9a13f31d5f378c0bdc5494e9670c6a6b41b240a3942856a055aeaa",
+      "transactionType": "CALL",
+      "contractName": null,
+      "contractAddress": "0x9f11d7E82315421D77330F8D6e76725db61dc5b7",
+      "function": null,
+      "arguments": null,
+      "rpc": "https://autumn-stylish-asphalt.bsc-testnet.discover.quiknode.pro/5fc082bb5564c6491719c4b571f2c209e083f8f6/",
+      "transaction": {
+        "type": "0x00",
+        "from": "0xf546f10f18263995f1413168d9712a71d67c2b7a",
+        "to": "0x9f11d7e82315421d77330f8d6e76725db61dc5b7",
+        "gas": "0x1f828",
+        "value": "0x0",
+        "data": "0xb6b55f250000000000000000000000000000000000000000000000000de0b6b3a7640000",
+        "nonce": "0xa"
+      },
+      "additionalContracts": []
+    }
+  ],
+  "receipts": [],
+  "libraries": [],
+  "pending": [
+    "0x95a06ba0a52fda416e222b4fe9d1d124fc70c4389f5413009d6771cad7d60f02",
+    "0xb9150a366f9a13f31d5f378c0bdc5494e9670c6a6b41b240a3942856a055aeaa"
+  ],
+  "path": "/home/mario/blockchain/foundry_ws/liquidity-mining-example/broadcast/Deposit.s.sol/97/run-latest.json",
+  "returns": {},
+  "timestamp": 1679240632,
+  "chain": 97,
+  "multi": false,
+  "commit": "c7b3c08"
+}
